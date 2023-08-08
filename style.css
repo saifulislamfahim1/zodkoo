@@ -1,0 +1,183 @@
+/* this is navbar start */
+.navbutton{
+    background-color: white;
+    border-radius: 50px;
+    color: #01bf86;
+    border: 2px solid white;
+    margin-right: 50px;
+}
+.navbutton:hover{
+    background-color: #01bf86;
+    color: white;
+}
+.navtext{
+    color: #afefd9;
+   margin-left: 8px;
+}
+.navtext:hover{
+    color: white;
+}
+/* this is navbar end */
+
+/* this is zodkoo start */
+.zodkooimage{
+    border-style: none;
+    border-radius: 0%;
+}
+.zodkootextone{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+.zodkootexttwo{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-weight: 500;
+}
+.zodkoobutton{
+    text-align: center;
+    margin-top: 30px;
+    background-color: #01bf86;
+    border-radius: 50px;
+    color: white;
+    border: 2px solid #01bf86;
+}
+.zodkoobutton:hover{
+    background-color: white;
+    border-radius: 50px;
+    color: #01bf86;
+    border: 2px solid white;
+}
+/* this is zodkoo end */
+
+/* this is clean start */
+.cleanbutton:hover{
+    background-color: white;
+    border-radius: 50px;
+    color: #01bf86;
+    border: 2px solid #01bf86;
+}
+.cleanbutton{
+    margin-top: 20px;
+    background-color: #01bf86;
+    border-radius: 50px;
+    color: white;
+    border: 2px solid #01bf86;
+    margin-left: 100px;
+    margin-bottom: 80px;
+}
+.cleantextone{
+    margin-top: 80px;
+    color: #496174;
+}
+.cleantexttwo{
+    margin-top: 50px;
+    color: gray;
+    margin-left: 100px;
+}
+.cleanimage{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.cleantextthree{
+    margin-top: 20px;
+    color: gray;
+    margin-left: 100px;
+}
+/* this is clean end */
+
+/* this is designed start */
+.designedbackground{
+    background-color: #f3f6fa;
+}
+.designedtext{
+    margin-top: 100px;
+    text-align: center;
+    color: #496174;
+}
+.designedtextone{
+    text-align: center;
+    color: gray;
+}
+.designedtexttwo{
+    text-align: center;
+    color: #496174;
+}
+/* this is designed end */
+
+/* this is perfect start */
+.perfecttext{
+    margin-top: 100px;
+    text-align: center;
+    color: #496174;
+}
+.perfecttextone{
+    text-align: center;
+    color: gray;
+}
+.perfecttwo{
+    text-align: center;
+    color: gray;
+}
+.perfectone{
+    text-align: center;
+    color: #496174;
+    font-weight: 700;
+}
+.perfect{
+    text-align: center;
+    color: #01bf86;
+    margin-top: 20px;
+}
+.perfectbutton{
+    margin-top: 30px;
+    background-color: #01bf86;
+    border-radius: 50px;
+    color: white;
+    border: 2px solid #01bf86;
+}
+.perfectbutton:hover{
+    background-color: white;
+    border-radius: 50px;
+    color: #01bf86;
+    border: 2px solid #01bf86;
+}
+.perfectfive{
+    color: gray;
+    margin-left: 50px;
+}
+.perfectfive1{
+    margin-top: 50px;
+    color: gray;
+    margin-left: 50px;
+}
+.perfect1{
+    text-align: center;
+    color: #01bf86;
+    margin-top: 30px;
+}
+/* this is perfect end */
+
+/* this is trusted start */
+.microsoft{
+    font-family: 'Lilita One', cursive;
+    font-weight: 600;
+    text-align: center;
+}
+.google{
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 600;
+    text-align: center;
+}
+.instagram{
+    font-family: 'Pacifico', cursive;
+    font-weight: 600;
+    text-align: center;
+}
+.converse{
+    font-family: 'Anton', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+/* this is trusted end */
